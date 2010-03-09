@@ -1,0 +1,8 @@
+h1. Navvy MongoMapper
+
+The "Navvy":http://github.com/jeffkreeftmeijer/navvy adapter for
+"Sequel":http://sequel.rubyforge.org.
+
+h2. License
+
+Copyright (c) 2009 Jeff Kreeftmeijer and Antek Piechnik, released under the MIT license
