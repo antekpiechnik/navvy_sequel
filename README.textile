@@ -1,4 +1,4 @@
-h1. Navvy MongoMapper
+h1. Navvy Sequel
 
 The "Navvy":http://github.com/jeffkreeftmeijer/navvy adapter for "Sequel":http://sequel.rubyforge.org.
 
